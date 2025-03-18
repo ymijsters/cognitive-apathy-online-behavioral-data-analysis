@@ -1,0 +1,37 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# Example project file
+*.Rproj
+.Rproj.user/
+
+# Output files
+*.out
+*.pdf
+*.csv
+*.xlsx
+
+# Cache and temporary files
+.Rproj.user/
+.Rhistory
+.Rdata
+.Ruserdata
+*.Rhistory
+*.Rdata
+*.RData
+*.Rds
+
+# Folders
+Pilot Data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
